@@ -1,0 +1,18 @@
+OSINT DAILY REPORT
+Target,finance.gov.pk
+Generated,2026-02-13 12:09:56.916809
+
+SUBDOMAINS
+Subdomain
+
+WEBSITE CHANGES
+Text Change %,0.23
+New Links,0
+Removed Links,0
+
+TREND
+Volatility,LOW
+
+ALERTS
+Severity,Type,Details
+CRITICAL,SUBDOMAIN_REMOVED,"['api-economy.finance.gov.pk', 'bak-economy.finance.gov.pk', 'cms.finance.gov.pk', 'economy.finance.gov.pk', 'ftp.finance.gov.pk', 'lists.cms.finance.gov.pk', 'mail.finance.gov.pk', 'ppc.finance.gov.pk', 'prsm.finance.gov.pk', 'pub-economy.finance.gov.pk', 'sdmx.finance.gov.pk', 'server.finance.gov.pk', 'webmail.finance.gov.pk', 'www.finance.gov.pk']"

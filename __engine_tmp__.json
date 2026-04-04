@@ -1,0 +1,96 @@
+{
+  "domain": "finance.gov.pk",
+  "count": 10,
+  "findings": [
+    {
+      "type": "subdomain",
+      "value": "api-economy.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.742537+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "bak-economy.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.743004+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "economy.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.743319+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "mail.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.743540+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "prsm.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.743721+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "pub-economy.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.743874+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "sdmx.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.744001+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "webmail.finance.gov.pk",
+      "source": "hackertarget",
+      "target": "finance.gov.pk",
+      "confidence": 0.85,
+      "timestamp": "2026-01-22T10:10:45.744112+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "www.finance.gov.pk",
+      "source": "dns_bruteforce",
+      "target": "finance.gov.pk",
+      "confidence": 1.0,
+      "timestamp": "2026-01-22T10:10:45.745899+00:00",
+      "metadata": {}
+    },
+    {
+      "type": "subdomain",
+      "value": "ftp.finance.gov.pk",
+      "source": "dns_bruteforce",
+      "target": "finance.gov.pk",
+      "confidence": 1.0,
+      "timestamp": "2026-01-22T10:10:45.747510+00:00",
+      "metadata": {}
+    }
+  ]
+}
